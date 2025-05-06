@@ -202,10 +202,9 @@ export function checkPermissions(roles){
   console.log(`roles: ${roles}`);
   for (let i = 0; i < roles.length; i++) {
     //console.log(i+" "+roles[i]);
-    if (roles[i] == '1296262101941358633') return true;
-    else if (roles[i] == '1296998023934771291') return true;
-    else if (roles[i] == '1315855821204226148') return true;
-    else if (roles[i] == '1315862224891412490') return true;
+    if (roles[i] == 'ADD ROLE ID HERE') return true;
+    else if (roles[i] == 'ADD ROLE ID HERE') return true;
+    else if (roles[i] == 'ADD ROLE ID HERE') return true;
   }
   return false;
 }
