@@ -7,5 +7,7 @@ This is the PityPointPartner app that the Street Rats guild in Throne of Liberty
 The JSON files are examples of formatting since I did not want to include member's Discord ID numbers. (Just remove "-example" from the files)
 Also the role ID number need to be changed to work as intended.
 
+Follow the tutorial for the link above to setup Node and Ngrok if you are wanting to actually run this bot.
+
 This project is being discontinued since the guild has merged.
 Long live Street Rats :)
