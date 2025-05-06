@@ -1,0 +1,30 @@
+
+
+
+HOW PITY POINTS WORK:
+Attending guild PvP events grants 4 points each attendance.
+The dynamic guild event occurring at 19:00 PST is worth 1 pity point.
+The war/conflict boss event occurring at 20:00 PST is worth 1 pity point.
+
+HOW ROLLING WORKS (in phase one):
+You need to have at least 3k guild reputation to be eligible to roll.
+You can only roll if the piece of loot is your best end game gear (excluding archboss).
+The weapon you're rolling for must match your currently equipped weapon set.
+If you obtain a piece of loot, you must be able to fully trait it within 7 days.
+You MUST post your build in the ⁠builds-guild channel, following the correct format. If you don't, you will not be eligible to roll during guild raids. 
+
+
+
+
+oh ya no problem! there are official rules pinned in the loot-distribution text channel in discord you should double check as well but generally:
+
+- Throughout the week, as we go to guild events our guild leaders take attendance and give us pity points. Attendance is collected through the discord voice channel so make sure you are connected there. Cause whats the point of showing up to a boon/riftstone event if you don't know/can't hear our strategy during the event? If there is an issue with that please talk to a guild leader since they decide on the rules.
+- Then we do our guild raids on sunday night and roll for the purple loot. If you have 3k reputation and your build is posted in the builds-guild channel, you can roll for your best in slot item(s) only. For exmaple, I'm SNS/Wand so I cannot roll for an Adentus Greatsword but I can roll for Nirma SNS. For each item whoever has the highest roll + pity points gets the item. We roll out of 70(since thats the number of player in the guild) so pity points are very impactful for deciding the winners. It's to promote participation in the guild and make sure the guild loot goes to people who will really use it. If you win something you are allowed to roll for more items (if they are in your build) but your pity points will be wiped before the next roll. Your pity points only get wiped after you win something. Usually the guild leaders gives out loot after all the rolls are over and it will come to your mailbox in-game.
+- If no one needs the purple loot for their build it will go to phase 2. Anyone can roll in phase 2 and it does not use pity points so we all have equal chances. If you want an item for the traits or to sell or to lithograph or anything, you roll in phase 2. Getting something in phase 2 does not wipe your pity points.
+- All the blue loot in the guild inventory is available in first come-first serve, just message which items you would like in the loot-distribution channel. It usually takes the guild leaders some time to distribute those so be patient but if it's been a couple days you can @ gf.
+
+To actually roll go to loot-distribution and type "/roll" after the rolling has started. We will see who wins once the rolling for that item is ended. You can look through loot-distribution to see examples from yesterday or whenever. There are some other commands the bot has like "/view-me" if you want to see your pity points. To see all the commands type "/" and the rat picture on the side will show you the options to look through. I made the bot so if the commands aren't working or anything lmk.
+
+
+TLDR:
+Go to guild events(and be in voice in discord) to earn pity points. Sundays roll for purple loot from guild raids using pity points using "/roll". More points = more loot.

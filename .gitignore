@@ -1,2 +1,9 @@
 node_modules
+server-roles.json
+player-history.json
+players.json
+highscore.json
+b1.json
+b2.json
+b3.json
 .env
